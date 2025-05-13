@@ -9,6 +9,7 @@ Este projeto serve como um repositório padrão para a criação de novos reposi
 
 A documentação abrangente incluída neste repositório visa garantir que todas as informações essenciais estejam acessíveis e bem estruturadas, permitindo que colaboradores e novos integrantes entendam rapidamente o funcionamento do projeto. Com diretrizes claras e exemplos práticos, este template facilita a padronização e a reutilização de boas práticas, promovendo eficiência e consistência na criação de novos repositórios.
 
+---
 
 ## Desenvolvedores
 <!-- 
@@ -27,6 +28,8 @@ A documentação abrangente incluída neste repositório visa garantir que todas
 
 </div>
 
+---
+
 ## Tecnologias Utilizadas
 
 <!-- Aqui eu deixei separado por tipo de tecnologia utilizada para ser mais separado para um usuário novo, mas pode ser aplicado como apenas um tópico -->
@@ -39,6 +42,8 @@ A documentação abrangente incluída neste repositório visa garantir que todas
 ![GitHub](https://img.shields.io/badge/Jira-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
 
 </div>
+
+---
 
 ### Linguagens de Programação
 
@@ -53,17 +58,23 @@ A documentação abrangente incluída neste repositório visa garantir que todas
 
 <!-- Caso queira ser mais detalhado ainda, você pode separar em mais subtópicos, como Frontend / Backend, Frameworks, etc... -->
 
+---
+
 ## Configuração Inicial
 
 <!--
   Aqui entraria toda a configuração que se faz necesária para acessar / utilizar o software que está sendo construído
 -->
 
+---
+
 ### Instalação de Tecnologias
 
 Antes de instalar a biblioteca, certifique-se de que você tem os seguintes requisitos:
 
 - [Python 3.8+](https://www.python.org/downloads/)
+
+---
 
 ### Instalação das Bibliotecas
 
@@ -75,3 +86,23 @@ Para rodar certas partes do código, será necessário a instalação das biblio
 pip install xyz
 ```
 
+---
+
+## Definições e Abreviaturas
+
+Algumas definições que poderão estar dentro de software, ou até mesmo abreviaturas utilizadas internamente que um usuário novo não possa conhecer. Evitando correr o risco de mal entendimento em certas etapas do processo e pode servir como treinamento prévio para algum novo desenvolvedor.
+
+---
+
+## Bibliografia
+<!--
+  Nessa parte você pode separar em mais tópicos como:
+    • Básico: voltando para pessoas que estão iniciando no projeto agora que possam utilizar esses links para estudar a programação
+    • Solução de Problemas: um tópico voltados para artigos e sites que foram utilizados para solucionar algum problema
+    • Pesquisas Auxilias: tópicos e links que foram utilizados em outros sites de pesquisas com dúvidas, onde ajudaram em algum momento de código, ou alguns sites de configurações iniciais.
+-->
+
+Todos os links necessários para pesquisas adicionais ou sites necessários para executar essa atividade, como por exemplo o site para alguma documentação de linguagem de programação, ou um algoritmo que foi usado para alguma solução de problema.
+
+Documentação do Python, acessado em 13/05/2025. Disponível em: [Python Documentation](https://docs.python.org/pt-br/3/) <br>
+Algoritmo de Busca, acessado em 13/05/2025. Disponível em: [Algoritmo de Busca em Largura](https://pt.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses) <br>
