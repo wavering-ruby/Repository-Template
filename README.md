@@ -29,7 +29,7 @@ A documentação abrangente incluída neste repositório visa garantir que todas
 
 ## Tecnologias Utilizadas
 
-<!-- Aqui eu deixei separado por tipo de tecnologia utilizada para ser mais separado para um usuário novo, mas pode ser aplicado como apenas m tópico -->
+<!-- Aqui eu deixei separado por tipo de tecnologia utilizada para ser mais separado para um usuário novo, mas pode ser aplicado como apenas um tópico -->
 
 ### Gestão de Ações
 
@@ -50,3 +50,28 @@ A documentação abrangente incluída neste repositório visa garantir que todas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 </div>
+
+<!-- Caso queira ser mais detalhado ainda, você pode separar em mais subtópicos, como Frontend / Backend, Frameworks, etc... -->
+
+## Configuração Inicial
+
+<!--
+  Aqui entraria toda a configuração que se faz necesária para acessar / utilizar o software que está sendo construído
+-->
+
+### Instalação de Tecnologias
+
+Antes de instalar a biblioteca, certifique-se de que você tem os seguintes requisitos:
+
+- [Python 3.8+](https://www.python.org/downloads/)
+
+### Instalação das Bibliotecas
+
+Para rodar certas partes do código, será necessário a instalação das bibliotecas abaixo para poder executar os comandos necessários.
+
+<!-- Lembrando que essa parte do pip, ela serve apenas como exemplo, aqui você deverá explicar como que faz para instalar as dependências necessárias -->
+
+```sh
+pip install xyz
+```
+
