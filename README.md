@@ -1,1 +1,52 @@
 # Repository-Template
+
+Esse é um repositório template para alguns projetos, aqui estará algumas configurações básicas sobre o projeto. Aqui estará algumas configurações interessantes para a documentação do projeto.
+
+## Sobre o Projeto
+<!-- Esse texto apresenta a introdução de seu projeto, mostrando o porque usá-lo. [O texto abaixo foi gerado por IA e deve ser substituído pelo o seu] -->
+
+Este projeto serve como um repositório padrão para a criação de novos repositórios, funcionando como um template versátil para qualquer iniciativa que siga um modelo pré-definido. Além de oferecer uma estrutura organizada para o desenvolvimento de novos projetos, ele também disponibiliza diversas abordagens para documentar processos internamente. Dessa forma, qualquer usuário pode navegar facilmente pelo conteúdo, compreendendo cada etapa do projeto sem dificuldades.
+
+A documentação abrangente incluída neste repositório visa garantir que todas as informações essenciais estejam acessíveis e bem estruturadas, permitindo que colaboradores e novos integrantes entendam rapidamente o funcionamento do projeto. Com diretrizes claras e exemplos práticos, este template facilita a padronização e a reutilização de boas práticas, promovendo eficiência e consistência na criação de novos repositórios.
+
+
+## Desenvolvedores
+<!-- 
+  Nessa parte é hora de você mostrar quem trabalhou junto com o projeto, você pode substituir o link para o perfil no GitHub para o LinkedIn.
+  Lembrando que a tabela abaixa pega a foto do GitHub
+-->
+
+<div align="center">
+
+| Profile Picture | Developer | Function |
+|:--------------:|:---------:|:---------:|
+| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Mateus de Paula](https://github.com/wavering-ruby)** | Project Manager |
+| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Gabriel de Paula](https://github.com/caiovj18)** | Fullstack Senior |
+| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Paula Mendes](https://github.com/caiovj18)** | Design de Produto |
+| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Paula Gabriel de Paula](https://github.com/caiovj18)** | Tester |
+
+</div>
+
+## Tecnologias Utilizadas
+
+<!-- Aqui eu deixei separado por tipo de tecnologia utilizada para ser mais separado para um usuário novo, mas pode ser aplicado como apenas m tópico -->
+
+### Gestão de Ações
+
+<div align="center">
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&labelColor=0052CC)
+![GitHub](https://img.shields.io/badge/Jira-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
+
+</div>
+
+### Linguagens de Programação
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+</div>
