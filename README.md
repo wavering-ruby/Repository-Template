@@ -106,3 +106,5 @@ Todos os links necessários para pesquisas adicionais ou sites necessários para
 
 Documentação do Python, acessado em 13/05/2025. Disponível em: [Python Documentation](https://docs.python.org/pt-br/3/) <br>
 Algoritmo de Busca, acessado em 13/05/2025. Disponível em: [Algoritmo de Busca em Largura](https://pt.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses) <br>
+
+---
