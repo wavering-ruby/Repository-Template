@@ -1,51 +1,51 @@
-# Repository-Template
+# Repository Template
 
-Esse é um repositório template para alguns projetos, aqui estará algumas configurações básicas sobre o projeto. Aqui estará algumas configurações interessantes para a documentação do projeto.
+This is a template repository for projects, containing basic configurations and interesting setups for project documentation.
 
-## Sobre o Projeto
-<!-- Esse texto apresenta a introdução de seu projeto, mostrando o porque usá-lo. [O texto abaixo foi gerado por IA e deve ser substituído pelo o seu] -->
+## About the Project
+<!-- This text introduces your project, explaining why to use it. [The text below is AI-generated and should be replaced with yours] -->
 
-Este projeto serve como um repositório padrão para a criação de novos repositórios, funcionando como um template versátil para qualquer iniciativa que siga um modelo pré-definido. Além de oferecer uma estrutura organizada para o desenvolvimento de novos projetos, ele também disponibiliza diversas abordagens para documentar processos internamente. Dessa forma, qualquer usuário pode navegar facilmente pelo conteúdo, compreendendo cada etapa do projeto sem dificuldades.
+This project serves as a standard repository template for creating new repositories, functioning as a versatile template for any initiative that follows a predefined model. Besides providing an organized structure for new project development, it also offers various approaches to document processes internally. This way, any user can easily navigate through the content, understanding each project stage without difficulties.
 
-A documentação abrangente incluída neste repositório visa garantir que todas as informações essenciais estejam acessíveis e bem estruturadas, permitindo que colaboradores e novos integrantes entendam rapidamente o funcionamento do projeto. Com diretrizes claras e exemplos práticos, este template facilita a padronização e a reutilização de boas práticas, promovendo eficiência e consistência na criação de novos repositórios.
+The comprehensive documentation included in this repository ensures all essential information is accessible and well-structured, allowing collaborators and new members to quickly understand the project's workflow. With clear guidelines and practical examples, this template facilitates standardization and reuse of best practices, promoting efficiency and consistency in creating new repositories.
 
 ---
 
-## Desenvolvedores
+## Developers
 <!-- 
-  Nessa parte é hora de você mostrar quem trabalhou junto com o projeto, você pode substituir o link para o perfil no GitHub para o LinkedIn.
-  Lembrando que a tabela abaixa pega a foto do GitHub
+  This section shows who worked on the project. You can replace GitHub profile links with LinkedIn.
+  Note: The table below pulls profile pictures from GitHub.
 -->
 
 <div align="center">
 
-| Profile Picture | Developer | Function |
-|:--------------:|:---------:|:---------:|
+| Profile Picture | Developer | Role |
+|:--------------:|:---------:|:-----:|
 | <img src="https://github.com/wavering-ruby.png" width="100"> | **[Mateus de Paula](https://github.com/wavering-ruby)** | Project Manager |
-| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Gabriel de Paula](https://github.com/caiovj18)** | Fullstack Senior |
-| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Paula Mendes](https://github.com/caiovj18)** | Design de Produto |
+| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Gabriel de Paula](https://github.com/caiovj18)** | Senior Fullstack |
+| <img src="https://github.com/wavering-ruby.png" width="100"> | **[Paula Mendes](https://github.com/caiovj18)** | Product Designer |
 | <img src="https://github.com/wavering-ruby.png" width="100"> | **[Paula Gabriel de Paula](https://github.com/caiovj18)** | Tester |
 
 </div>
 
 ---
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-<!-- Aqui eu deixei separado por tipo de tecnologia utilizada para ser mais separado para um usuário novo, mas pode ser aplicado como apenas um tópico -->
+<!-- Here I've separated by technology type for better organization, but you can use a single topic if preferred -->
 
-### Gestão de Ações
+### Project Management
 
 <div align="center">
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&labelColor=0052CC)
-![GitHub](https://img.shields.io/badge/Jira-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
 
 </div>
 
 ---
 
-### Linguagens de Programação
+### Programming Languages
 
 <div align="center">
 
@@ -56,31 +56,29 @@ A documentação abrangente incluída neste repositório visa garantir que todas
 
 </div>
 
-<!-- Caso queira ser mais detalhado ainda, você pode separar em mais subtópicos, como Frontend / Backend, Frameworks, etc... -->
+<!-- You can add more subsections like Frontend/Backend, Frameworks, etc. if needed -->
 
 ---
 
-## Configuração Inicial
+## Initial Setup
 
-<!--
-  Aqui entraria toda a configuração que se faz necesária para acessar / utilizar o software que está sendo construído
--->
+<!-- This section includes all necessary configuration to access/use the software being built -->
 
 ---
 
-### Instalação de Tecnologias
+### Technology Requirements
 
-Antes de instalar a biblioteca, certifique-se de que você tem os seguintes requisitos:
+Before installing the library, ensure you have the following requirements:
 
 - [Python 3.8+](https://www.python.org/downloads/)
 
 ---
 
-### Instalação das Bibliotecas
+### Library Installation
 
-Para rodar certas partes do código, será necessário a instalação das bibliotecas abaixo para poder executar os comandos necessários.
+To run certain parts of the code, you'll need to install the following libraries to execute the necessary commands.
 
-<!-- Lembrando que essa parte do pip, ela serve apenas como exemplo, aqui você deverá explicar como que faz para instalar as dependências necessárias -->
+<!-- The pip section below is just an example - explain how to install your specific dependencies -->
 
 ```sh
 pip install xyz
@@ -88,23 +86,18 @@ pip install xyz
 
 ---
 
-## Definições e Abreviaturas
+## Definitions and Abbreviations
 
-Algumas definições que poderão estar dentro de software, ou até mesmo abreviaturas utilizadas internamente que um usuário novo não possa conhecer. Evitando correr o risco de mal entendimento em certas etapas do processo e pode servir como treinamento prévio para algum novo desenvolvedor.
-
----
-
-## Bibliografia
-<!--
-  Nessa parte você pode separar em mais tópicos como:
-    • Básico: voltando para pessoas que estão iniciando no projeto agora que possam utilizar esses links para estudar a programação
-    • Solução de Problemas: um tópico voltados para artigos e sites que foram utilizados para solucionar algum problema
-    • Pesquisas Auxilias: tópicos e links que foram utilizados em outros sites de pesquisas com dúvidas, onde ajudaram em algum momento de código, ou alguns sites de configurações iniciais.
--->
-
-Todos os links necessários para pesquisas adicionais ou sites necessários para executar essa atividade, como por exemplo o site para alguma documentação de linguagem de programação, ou um algoritmo que foi usado para alguma solução de problema.
-
-Documentação do Python, acessado em 13/05/2025. Disponível em: [Python Documentation](https://docs.python.org/pt-br/3/) <br>
-Algoritmo de Busca, acessado em 13/05/2025. Disponível em: [Algoritmo de Busca em Largura](https://pt.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses) <br>
+Some definitions that may appear in the software, or internal abbreviations that new users might not know. This helps avoid misunderstandings during certain process stages and can serve as preliminary training for new developers.
 
 ---
+
+## References
+
+<!-- You can organize this into more subsections like: • Basic: Resources for beginners starting with the project • Problem Solving: Articles and sites used to solve specific problems • Supporting Research: Links used during research that helped with coding or initial setup -->
+
+All necessary links for additional research or sites required to perform activities, such as programming language documentation or algorithms used for problem-solving.
+
+Python Documentation, accessed 05/13/2025. Available at: [Python Documentation](https://docs.python.org/3/)
+
+Search Algorithm, accessed 05/13/2025. Available at: [Breadth-First Search Algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses)
