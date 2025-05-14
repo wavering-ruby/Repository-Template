@@ -4,31 +4,31 @@
 
 ---
 
-# New Features
+## New Features
  - [Insert here something that it's new]
  - [Insert another thing that it's new]
 
 ---
 
-# Improvements
+## Improvements
   - [Insert here some improvement in something that actually existing]
   - [Insert here another improvement]
 
 ---
 
-# Bug Fixes: 
+## Bug Fixes: 
   - [Insert a bug that it's fixed]
   - [Insert another but that it's fixed]
 
 ---
 
-# Ajustments:
+## Ajustments:
   - [What it's changing]
   - [What it's changing]
 
 ---
 
-# Developer Notes
+## Developer Notes
   - [Some notes from a developer or something like that].
 
 ---
