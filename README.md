@@ -101,3 +101,5 @@ All necessary links for additional research or sites required to perform activit
 Python Documentation, accessed 05/13/2025. Available at: [Python Documentation](https://docs.python.org/3/)
 
 Search Algorithm, accessed 05/13/2025. Available at: [Breadth-First Search Algorithm](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/breadth-first-search-and-its-uses)
+
+---
