@@ -1,28 +1,22 @@
-# Patch Notes - HeadJumpers vX.Y.Z.
-**📆 Release Date:** MM/DD/YYYY <br>
-**🚀 Version:** vX.Y.Z.
+# Patch Notes - {Name of Project} vX.Y.Z.
+**Release Date:** MM/DD/YYYY <br>
+**Version:** vX.Y.Z.
 
-# 🆕 New Features
+# New Features
  - [Insert here something that it's new]
  - [Insert another thing that it's new]
 
-# 🛠️ Improvements
+# Improvements
   - [Insert here some improvement in something that actually existing]
   - [Insert here another improvement]
 
-# 🐛 Bug Fixes: 
+# Bug Fixes: 
   - [Insert a bug that it's fixed]
   - [Insert another but that it's fixed]
 
-# 🔄 Character Ajustments:
-
-## [Name of Character]
+# Ajustments:
   - [What it's changing]
   - [What it's changing]
 
-## [Name of Another Character]
-  - [What it's changing]
-  - [What it's changing]
-
-# 📌 Developer Notes
+# Developer Notes
   - [Some notes from a developer or something like that].
