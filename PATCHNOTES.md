@@ -21,16 +21,21 @@
 
 ---
 
-## Bug Fixes: 
+## Bug Fixes
   - [Insert a bug that it's fixed]
   - [Insert another but that it's fixed]
 
 ---
 
-## Ajustments:
+## Ajustments
   - [What it's changing]
   - [What it's changing]
 
+---
+
+## Emergencial Update
+  - [What it's changing]
+  - [What it's changing]
 ---
 
 ## Developer Notes
