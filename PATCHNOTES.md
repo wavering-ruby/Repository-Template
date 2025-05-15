@@ -1,3 +1,8 @@
+<!-- 
+ This is a template for updates in you software, it's recomended if you have your control of actions in GitHub, to use each line with a hyperlink to the action
+ This is great for the new employees know what and where this updated it's registred.
+-->
+
 # Patch Notes - {Name of Project} vX.Y.Z.
 **Release Date:** MM/DD/YYYY <br>
 **Version:** vX.Y.Z.
