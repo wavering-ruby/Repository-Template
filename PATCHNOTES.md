@@ -3,6 +3,10 @@
  This is great for the new employees know what and where this updated it's registred.
 -->
 
+<!--
+ This page can also be used for the Release on GitHub and adapted for final user update notes
+-->
+
 # Patch Notes - {Name of Project} vX.Y.Z.u.
 **Release Date:** MM/DD/YYYY <br>
 **Version:** vX.Y.Z.u.
