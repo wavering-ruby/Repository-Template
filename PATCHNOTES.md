@@ -5,7 +5,7 @@
 
 # Patch Notes - {Name of Project} vX.Y.Z.u.
 **Release Date:** MM/DD/YYYY <br>
-**Version:** vX.Y.Z.
+**Version:** vX.Y.Z.u.
 
 ---
 
