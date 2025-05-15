@@ -31,19 +31,19 @@ Each version code follows a standardized nomenclature that clarifies the magnitu
       <td><strong>X</strong></td>
       <td>Major</td>
       <td>Significant changes that may alter core functionality or introduce major new features.</td>
-      <td><code>2.0.0.u</code> – A completely new version with big updates.</td>
+      <td><code>2.0.0.0</code> – A completely new version with big updates.</td>
     </tr>
     <tr>
       <td><strong>Y</strong></td>
       <td>Medium</td>
       <td>Notable improvements, feature additions, or performance enhancements without a complete overhaul.</td>
-      <td><code>2.1.0.u</code> – New functionalities and important optimizations.</td>
+      <td><code>2.1.0.0</code> – New functionalities and important optimizations.</td>
     </tr>
     <tr>
       <td><strong>Z</strong></td>
       <td>Minor</td>
       <td>Small refinements, fixes, and internal adjustments to enhance usability.</td>
-      <td><code>2.1.5.u</code> – Minor improvements and bug fixes.</td>
+      <td><code>2.1.5.0</code> – Minor improvements and bug fixes.</td>
     </tr>
     <tr>
       <td><strong>u</strong></td>
