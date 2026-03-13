@@ -38,8 +38,7 @@ The comprehensive documentation included in this repository ensures all essentia
 
 <div align="center">
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&labelColor=0052CC)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 </div>
 
@@ -49,10 +48,10 @@ The comprehensive documentation included in this repository ensures all essentia
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
 </div>
 
@@ -60,31 +59,64 @@ The comprehensive documentation included in this repository ensures all essentia
 
 ---
 
-## Initial Setup
+## Installation
+> [!IMPORTANT]
+> If you already know how to install the technologies and dependecies, please ignore the text below and jump to the next topic.
 
-<!-- This section includes all necessary configuration to access/use the software being built -->
+<details>
+<summary>
+    Installation Guide
+</summary>
+Follow the steps below to run the project locally.
 
----
+### 1. Clone the repository
 
-### Technology Requirements
-
-Before installing the library, ensure you have the following requirements:
-
-- [Python 3.8+](https://www.python.org/downloads/)
-
----
-
-### Library Installation
-
-To run certain parts of the code, you'll need to install the following libraries to execute the necessary commands.
-
-<!-- The pip section below is just an example - explain how to install your specific dependencies -->
-
-```sh
-pip install xyz
+```bash
+git clone https://github.com/wavering-ruby/Nodejs-Orders-API.git
+cd <folder_name>
 ```
 
----
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Configure environment variables
+
+Create a `.env` file in the root of the project.
+
+Example configuration:
+
+```env
+# POSTGRESQL
+POSTGRESQL_HOST=localhost
+POSTGRESQL_PORT=5432
+POSTGRESQL_USER=order_api
+POSTGRESQL_PASSWORD=your_password
+POSTGRESQL_DATABASE=orders
+
+# BACKEND
+BACKEND_PORT=3000
+```
+
+### 4. Start the server
+
+```bash
+npm start
+```
+
+The API will be available at:
+
+```url
+http://localhost:3000
+```
+
+### 5. Test the API
+
+You can test all endpoints using the Postman collection available in: [Postman-JSON](./postman/Node.js%20API.postman_collection.json).
+
+</details>
 
 ## Definitions and Abbreviations
 
