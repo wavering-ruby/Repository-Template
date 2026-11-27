@@ -1,12 +1,13 @@
 name: Feature Request
 description: Propor uma nova funcionalidade ou melhoria
 title: "[Feature]: "
-labels: ["Feature", "Type"]
+labels: ["Feature"]
+type: "Feature"
 body:
   - type: markdown
     attributes:
       value: |
-        > **Fluxo de aprovação:** Esta issue inicia com as labels `Feature` e `Type`. Caso a funcionalidade seja aprovada por um desenvolvedor, o dev responsável deverá alterar manualmente a label `Type` para `Task`.
+        > **Fluxo de aprovação:** Esta issue inicia com o Type `Feature` e a label `Feature`. Caso a funcionalidade seja aprovada por um desenvolvedor, o dev responsável deverá alterar manualmente o campo **Type** da issue de `Feature` para `Task`.
 
   - type: textarea
     id: problem
