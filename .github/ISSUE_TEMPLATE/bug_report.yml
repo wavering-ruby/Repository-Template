@@ -1,0 +1,51 @@
+name: Bug Report
+description: Reportar uma falha ou comportamento inesperado no sistema
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do problema
+      description: Explique de forma clara e objetiva o que está acontecendo.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Passos para reproduzir
+      description: Como simular o erro passo a passo?
+      placeholder: |
+        1. Acesse '...'
+        2. Clique em '...'
+        3. Observe o erro
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento esperado
+      description: O que deveria ter acontecido?
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Ambiente
+      description: Informe sistema operacional, navegador, versão do runtime ou dispositivo.
+      placeholder: |
+        - SO: Windows 11 / Linux
+        - Versão: v1.0.0
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs ou capturas de tela
+      description: Cole mensagens de erro, stack traces ou imagens relevantes.
+    validations:
+      required: false
