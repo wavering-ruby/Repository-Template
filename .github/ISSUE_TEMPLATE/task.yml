@@ -1,0 +1,32 @@
+name: Task
+description: Tarefa técnica, refatoração, documentação ou manutenção
+title: "[Task]: "
+labels: ["task"]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+      description: O que precisa ser feito e qual o escopo da tarefa?
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critérios de aceite
+      description: Condições necessárias para considerar a tarefa concluída.
+      placeholder: |
+        - [ ] Implementação concluída
+        - [ ] Testes atualizados
+        - [ ] Documentação revisada
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notas técnicas ou dependências
+      description: Arquivos impactados, links para outras issues ou restrições técnicas.
+    validations:
+      required: false
