@@ -2,6 +2,7 @@ name: Bug Report
 description: Reportar uma falha ou comportamento inesperado no sistema
 title: "[Bug]: "
 labels: ["Bug"]
+type: "Bug"
 body:
   - type: textarea
     id: description
