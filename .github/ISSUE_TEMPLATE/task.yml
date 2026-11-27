@@ -2,6 +2,7 @@ name: Task
 description: Tarefa técnica, refatoração, documentação ou manutenção
 title: "[Task]: "
 labels: ["Task"]
+type: "Task"
 body:
   - type: textarea
     id: objective
