@@ -5,14 +5,14 @@
 <!-- Action & Metadata Badges -->
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wavering-ruby/Repository-Template/generate)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/wavering-ruby/Repository-Template)
-[![Release](https://img.shields.io/github/v/release/username/repository-name?style=for-the-badge&logo=semanticrelease&logoColor=white&color=007ec6)](https://github.com/wavering-ruby/Repository-Template/releases)
-[![License](https://img.shields.io/github/license/username/repository-name?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=blue)](./LICENSE)
+[![Release](https://img.shields.io/github/v/release/wavering-ruby/Repository-Template?style=for-the-badge&logo=semanticrelease&logoColor=white&color=007ec6)](https://github.com/wavering-ruby/Repository-Template/releases)
+[![License](https://img.shields.io/github/license/wavering-ruby/Repository-Template?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=blue)](./LICENSE)
 
 <!-- Repository Activity Badges -->
-[![Last Commit](https://img.shields.io/github/last-commit/username/repository-name?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://github.com/wavering-ruby/Repository-Template/commits/main)
-[![Issues](https://img.shields.io/github/issues/username/repository-name?style=for-the-badge&logo=github&logoColor=white&color=yellow)](https://github.com/wavering-ruby/Repository-Template/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/username/repository-name?style=for-the-badge&logo=github&logoColor=white&color=blueviolet)](https://github.com/wavering-ruby/Repository-Template/pulls)
-[![Contributors](https://img.shields.io/github/contributors/username/repository-name?style=for-the-badge&logo=github&logoColor=white&color=17a2b8)](https://github.com/wavering-ruby/Repository-Template/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/wavering-ruby/Repository-Template?style=for-the-badge&logo=git&logoColor=white&color=F05032)](https://github.com/wavering-ruby/Repository-Template/commits/main)
+[![Issues](https://img.shields.io/github/issues/wavering-ruby/Repository-Template?style=for-the-badge&logo=github&logoColor=white&color=yellow)](https://github.com/wavering-ruby/Repository-Template/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/wavering-ruby/Repository-Template?style=for-the-badge&logo=github&logoColor=white&color=blueviolet)](https://github.com/wavering-ruby/Repository-Template/pulls)
+[![Contributors](https://img.shields.io/github/contributors/wavering-ruby/Repository-Template?style=for-the-badge&logo=github&logoColor=white&color=17a2b8)](https://github.com/wavering-ruby/Repository-Template/graphs/contributors)
 
 <br>
 
